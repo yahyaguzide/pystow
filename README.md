@@ -1,2 +1,2 @@
-# py-stow
+# pystow
 GNU stow implementation in python
